@@ -9,7 +9,3 @@ urllib
 
 This program was tested with the webpage
 http://ricardonarvaja.info/WEB/
-
-This is my first program in python and I dedicate it to my astonishing beautiful wife
-DANIELA ELIZABETH GONZALEZ GUTIERREZ
-♥I LOVE YOU♥
